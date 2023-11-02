@@ -2,6 +2,8 @@
 
 ## practice-grocery-buddy
 
+![image](https://github.com/Sinichi78/practice-grocery-buddy/assets/110324874/f43654f2-cdb0-4f6a-aea5-586da2335dca)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
